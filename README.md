@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey! I'm Jamie!
 
+<p align="left">A freelance developer and training sysadmin based out of England.</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JamieIsGeek&count_private=true&show_icons=true&icon_color=0414a3&title_color=0414a3"/>
 <!--
 **JamieIsGeek/JamieIsGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
