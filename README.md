@@ -6,7 +6,7 @@
 <h2 align="center"> My Skills </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,go,bash,discord,docker,github,git,go,gradle,idea,linux,maven,mysql,nginx,vscode&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,py,go,bash,discord,docker,github,git,gradle,idea,linux,maven,mysql,nginx,vscode&theme=dark&perline=7" />
   </a>
 </p>
 
